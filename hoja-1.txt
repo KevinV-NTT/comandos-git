@@ -1,2 +1,2 @@
-hola desde la segunda-rama (GitHub) - rama uno
+hola desde la segunda-rama (GitHub) - rama main
 Hola linea
